@@ -22,20 +22,6 @@ data/
 
 ---
 
-## 📦 Dependencies
-
-- Python 3.7+
-- PyTorch
-- torchvision
-- matplotlib
-- numpy
-
-You can install dependencies using:
-
-```bash
-pip install torch torchvision matplotlib numpy
-
-
 Input (1 x 128 x 128)
 ↓
 Conv2d → ReLU → MaxPool
